@@ -1,0 +1,7 @@
+Explique cuales son los modos de programacion en python.
+=
+ los modos que se usan en programacion en python son dos:
+
+1. modo interactivo es el que se escribe las instrucciones solo en comando,donde se puede ver el resultado 
+inmediatamente .
+2.modo normal el modo normal es el lee linea por linea y al leerlo y analizarlo te encuentra error.
